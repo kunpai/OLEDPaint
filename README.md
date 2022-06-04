@@ -2,10 +2,10 @@
 
 ## An application of Paint on the Adafruit OLED
 
-## 1. Uses I2C to determine the accelerations of the tilts of the board which helps move the cursor, brush and eraser
-## 2. Uses IR remote detection to comprehend button presses from 0-9, VOL+/- and CHAN+/-, which are configured to be the features.
-## 3. Uses SimpleLink WiFi to connect to a custom backend server made using Flask, that interprets a 128px by 128px bitmap received from the CC3200 and converts it into an SVG and PNG.
-## 4. Displays converted PNG on a matplotlib instance, resets on closing the generated image.
+- Uses I2C to determine the accelerations of the tilts of the board which helps move the cursor, brush and eraser
+- Uses IR remote detection to comprehend button presses from 0-9, VOL+/- and CHAN+/-, which are configured to be the features.
+- Uses SimpleLink WiFi to connect to a custom backend server made using Flask, that interprets a 128px by 128px bitmap received from the CC3200 and converts it into an SVG and PNG.
+- Displays converted PNG on a matplotlib instance, resets on closing the generated image.
 
 Features:
 
