@@ -25,3 +25,9 @@ Volume - : Decrease Brush Size <br />
 <br />
 Channel + : Move Forward in the Color Palette <br />
 Channel - : Move Back in the Color Palette <br />
+
+## Demo Images
+
+![Alt text](https://github.com/kunpai/OLEDPaint/blob/main/demopics/painted.jpg "On the OLED")
+
+![Alt text](https://github.com/kunpai/OLEDPaint/blob/main/demopics/oncomputer.jpg "After BitMap is sent")
