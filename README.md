@@ -29,5 +29,7 @@ Channel - : Move Back in the Color Palette <br />
 ## Demo Images
 
 <img src="https://github.com/kunpai/OLEDPaint/blob/main/demopics/painted.jpg" alt="drawing" width="200"/>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F191-1912973_arrow-pointing-down-arrow-pointing-down-transparent-hd.png&f=1&nofb=1" alt="drawing" width="128"/>
+
+Here is the saved image on the system that runs the backend server: <br />
+
 <img src="https://github.com/kunpai/OLEDPaint/blob/main/demopics/oncomputer.jpg" alt="drawing" width="128"/>
