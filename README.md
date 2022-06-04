@@ -28,6 +28,9 @@ Channel - : Move Back in the Color Palette <br />
 
 ## Demo Images
 
+<img src="https://github.com/kunpai/OLEDPaint/blob/main/demopics/painted.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/kunpai/OLEDPaint/blob/main/demopics/oncomputer.jpg" alt="drawing" width="128"/>
+
 ![Alt text](https://github.com/kunpai/OLEDPaint/blob/main/demopics/painted.jpg "On the OLED")
 
 ![Alt text](https://github.com/kunpai/OLEDPaint/blob/main/demopics/oncomputer.jpg "After BitMap is sent")
