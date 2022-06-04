@@ -7,21 +7,21 @@
 - Uses SimpleLink WiFi to connect to a custom backend server made using Flask, that interprets a 128px by 128px bitmap received from the CC3200 and converts it into an SVG and PNG.
 - Displays converted PNG on a matplotlib instance, resets on closing the generated image.
 
-Features:
+## Features:
 
-0 : Screenshot
-1 : Cursor
-2 : Brush
-3 : Eraser
-4 : Line Generator (from 2 points)
-5 : Triangle Generator (from 3 points)
-6 : Circle Generator
-7 : Quadrilateral Generator (from 4 points)
-8 : Fill Screen with Cursor Color
-9 : Reset to Black Canvas
-
-Volume + : Increase Brush Size
-Volume - : Decrease Brush Size
-
-Channel + : Move Forward in the Color Palette
-Channel - : Move Back in the Color Palette
+0 : Screenshot <br />
+1 : Cursor <br />
+2 : Brush <br />
+3 : Eraser <br />
+4 : Line Generator (from 2 points) <br />
+5 : Triangle Generator (from 3 points) <br />
+6 : Circle Generator <br />
+7 : Quadrilateral Generator (from 4 points) <br />
+8 : Fill Screen with Cursor Color <br />
+9 : Reset to Black Canvas <br />
+<br />
+Volume + : Increase Brush Size <br />
+Volume - : Decrease Brush Size <br />
+<br />
+Channel + : Move Forward in the Color Palette <br />
+Channel - : Move Back in the Color Palette <br />
